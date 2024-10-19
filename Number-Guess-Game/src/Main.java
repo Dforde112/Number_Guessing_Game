@@ -5,7 +5,6 @@ public class Main {
     public static void main(String[] args) {
 
         //Have a method to generate a random number
-        generateNumber();
         int random_num = generateNumber();
 
         //Counter for wrong answers
